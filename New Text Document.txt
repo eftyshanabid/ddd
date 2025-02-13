@@ -1,7 +1,10 @@
 hello
+bye 
+soniye
 hi
 soniye
 jay
 mataa
 ji
 boliye
+
